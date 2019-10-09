@@ -43,4 +43,7 @@
 * https://www.christies.com/features/A-collaboration-between-two-artists-one-human-one-a-machine-9332-1.aspx
 * [2019 Tony Awards: Hadestown](https://www.youtube.com/watch?v=XgIGeMBsQf4)
 * https://info.legalzoom.com/community-property-laws-california-10-year-marriage-25490.html
+* [b i t . l y / W T M W S X - Alfred the Great](https://en.wikipedia.org/wiki/Alfred_the_Great)
+* [b i t . l y / S F D E W R Y - Newman from Seinfeld](https://en.wikipedia.org/wiki/Newman_\(Seinfeld\))
+
 
