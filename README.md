@@ -40,6 +40,8 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 * https://www.smithsonianmag.com/smithsonian-institution/sad-story-laika-space-dog-and-her-one-way-trip-orbit-1-180968728/
 * https://www.livescience.com/65984-top-moon-conspiracies.html
 * [Lunar Lander Game](https://scratch.mit.edu/projects/307529682/fullscreen/)
+	* Jeesh. Next time we'll land somewhere more serene.
+	* [Crater Vitruvius](https://en.wikipedia.org/wiki/Vitruvius_\(crater\)), [Crater Le Monnier](https://en.wikipedia.org/wiki/Le_Monnier_\(crater\)), [Crater Plinius](https://en.wikipedia.org/wiki/Plinius_\(crater\))
 * https://xkcd.com/1356/
 * [200 Years Since His Birth, the Time is Ripe For a Herman Melville Revival](https://thewire.in/books/herman-melville-200-years)
 * https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/
