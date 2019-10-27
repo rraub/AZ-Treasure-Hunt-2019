@@ -35,10 +35,16 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 	* [Number Puzzle Hexa](https://play.google.com/store/apps/details?id=com.bitmango.go.numberpuzzlehexa&hl=en_US)
 * [monty python-witch scene](https://www.youtube.com/watch?v=yp_l5ntikaU)
 * https://www.nationalparks.org/our-work/campaigns-initiatives/every-kid-park
+	* A federal public lands youth initiative to get all 4th graders and their families to experience the places that are home to our country’s natural treasures, rich history, and vibrant culture.
 * https://unicode.org/emoji/charts/full-emoji-list.html#1f4fb
+	* Radio Emoji :radio:, [emojipedia](https://emojipedia.org/radio/)
 * https://www.azfamily.com/shows/good_morning_arizona/what-you-need-to-know-about-arizona-s-new-texting/article_940f0caa-65d2-11e9-b5e4-73c06a446ad2.html
-* https://www.smithsonianmag.com/smithsonian-institution/sad-story-laika-space-dog-and-her-one-way-trip-orbit-1-180968728/
-* https://www.livescience.com/65984-top-moon-conspiracies.html
+	* Dont text and drive
+* [The Sad, Sad Story of Laika, the Space Dog, and Her One-Way Trip into Orbit](https://www.smithsonianmag.com/smithsonian-institution/sad-story-laika-space-dog-and-her-one-way-trip-orbit-1-180968728/)
+	* Sputnik 2’s dog cosmonaut was the first living thing to orbit earth. Lift off On November 3 at 5:30 a.m. pulling 5Gs, died due to loss of heat sheild, made one orbit, period of 103 minutes. 
+	* NASA unofficially named a spot within a Martian crater “Laika.”
+* [Top Moon Conspiracies](https://www.livescience.com/65984-top-moon-conspiracies.html) 
+	* It was faked, aliens, TODO
 * [Lunar Lander Game](https://scratch.mit.edu/projects/307529682/fullscreen/)
 	* Jeesh. Next time we'll land somewhere more serene.
 	* [Crater Vitruvius](https://en.wikipedia.org/wiki/Vitruvius_\(crater\)), [Crater Le Monnier](https://en.wikipedia.org/wiki/Le_Monnier_\(crater\)), [Crater Plinius](https://en.wikipedia.org/wiki/Plinius_\(crater\))
@@ -58,6 +64,7 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 ## Celeberty Deaths in 2019 (and late 2018)
 * [Peter Mayhew](https://en.wikipedia.org/wiki/Peter_Mayhew) - Chewbacca Actor
 * [Eddie Money](https://en.wikipedia.org/wiki/Eddie_Money) - Long Island-raised rock star, The husky-voiced, blue collar performer -- who grew up in Plainedge and is a Long Island Music Hall of Famer --was known for such hits as "Two Tickets to Paradise" and "Take Me Home Tonight."  He was 70.
+* [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee) American comic book writer, editor, publisher, and producer
 * Toni Morrison
 * Harold Prince
 * [Grumpy Cat](https://en.wikipedia.org/wiki/Grumpy_Cat), [Intenet Celebrity](https://twitter.com/RealGrumpyCat)
