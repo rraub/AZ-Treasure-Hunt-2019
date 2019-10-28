@@ -9,6 +9,7 @@
 
 ## Other things
 * Styx "come sail away" talks about angels in the sky blablabla but they were aliens
+	* [Styx (not the band)](https://en.wikipedia.org/wiki/Styx) - is a deity and a river that forms the boundary between Earth and the Underworld, often called "Hades", which is also the name of its ruler. 
 * The minimax is about generative adversarial networks
 * AmaIzon is spelled with an [Up Tack](https://en.wikipedia.org/wiki/Up_tack) - Falsum or Absurdum
 	* Seperate Property - Jeff Bazos got divorced Jan 9th, property laws. 
@@ -22,6 +23,10 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 * [Flags of the world](https://previews.123rf.com/images/panyamail/panyamail1805/panyamail180500343/102155432-all-flags-of-the-world-in-alphabetical-order-rectangle-glossy-style.jpg)
 * [Pequod - Moby Dick](https://en.wikipedia.org/wiki/Pequod_\(Moby-Dick\)) - On a Coffe cup, Starbucks? 
 * [PRIME](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) [MERIDIAN](https://en.wikipedia.org/wiki/Prime_meridian)/[MINISTER](https://en.wikipedia.org/wiki/Prime_minister)/[DIRECTIVE](https://en.wikipedia.org/wiki/Prime_Directive)
+	* Star Trek: the Prime Directive (also known as "Starfleet General Order 1", "General Order 1", and the "non-interference directive") is a guiding principle of Starfleet, prohibiting its members from interfering with the internal and natural development of alien civilizations.
+* [Magan Rapinoe](https://en.wikipedia.org/wiki/Megan_Rapinoe), [Abby Wambach](https://en.wikipedia.org/wiki/Abby_Wambach), [Carli Lloyd](https://en.wikipedia.org/wiki/Carli_Lloyd), [Julie Ertz](https://en.wikipedia.org/wiki/Julie_Ertz)
+* Wasp in bottom right corner.
+* If geometry is [foreign (definition)](https://www.merriam-webster.com/dictionary/foreign) to you, choose the shape with the correct [Area Formulas](https://www.shmoop.com/basic-geometry/area-formulas.html) .
 
 ## Links from HWOW
 * [Apollo mission Landing sites](https://airandspace.si.edu/explore-and-learn/topics/apollo/apollo-program/landing-missions/sites.cfm)
@@ -38,7 +43,7 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 	* Rotate disks to align one row with a predetermined sequence, then look for other rows that have the actual secret in plain text.
 * [Hexologic - Level 1-15 Gameplay Walkthrough (PC/IOS/Android)](https://www.youtube.com/watch?v=PlsKv4Cn6ZE)
 	* [Number Puzzle Hexa](https://play.google.com/store/apps/details?id=com.bitmango.go.numberpuzzlehexa&hl=en_US)
-* [monty python-witch scene](https://www.youtube.com/watch?v=yp_l5ntikaU)
+* [Monty Python - Witch Scene](https://www.youtube.com/watch?v=yp_l5ntikaU)
 * [Every Kid Park Program]https://www.nationalparks.org/our-work/campaigns-initiatives/every-kid-park
 	* A federal public lands youth initiative to get all 4th graders and their families to experience the places that are home to our country’s natural treasures, rich history, and vibrant culture.
 * [Radio Emoji](https://unicode.org/emoji/charts/full-emoji-list.html#1f4fb) :radio:, [emojipedia](https://emojipedia.org/radio/) `1f4fb`
