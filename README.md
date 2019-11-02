@@ -86,7 +86,7 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 * Can or bag of Dogfood
 * 10' pole
 * Blacklights
-* Hexadecimal to Decimal conversion
-* Binary to Decimal conversion
-* ASCII table
-* Periodic table
+* [Hexadecimal to Decimal conversion](http://wims.unice.fr/wims/en_tool~number~baseconv.en.html)
+* [Binary to Decimal conversion](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
+* [ASCII table](http://www.asciitable.com/)
+* [Periodic table](https://www.ptable.com/)
