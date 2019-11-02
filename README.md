@@ -5,7 +5,12 @@
 * [HWOW](https://static1.squarespace.com/static/5897cdaf1b10e38edfed6ea7/t/5d94080b2b724c0a5185730f/1569982476384/HWOW_2019_Final.pdf)
 * [Docs](https://www.aztreasurehunt.org/docs)
 
-
+## Things to bring
+* Can or bag of Dogfood, 10' pole, Bowling Ball, Blacklights
+* [Hexadecimal to Decimal conversion](http://wims.unice.fr/wims/en_tool~number~baseconv.en.html)
+* [Binary to Decimal conversion](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
+* [ASCII table](http://www.asciitable.com/)
+* [Periodic table](https://www.ptable.com/)
 
 ## Other things
 * Styx "come sail away" talks about angels in the sky blablabla but they were aliens
@@ -15,6 +20,7 @@
 	* Seperate Property - Jeff Bazos got divorced Jan 9th, property laws. 
 	* https://info.legalzoom.com/community-property-laws-california-10-year-marriage-25490.html
 * "Congratulations to the Royal Family!" -  Meghan Markle and Prince Harry's baby boy Archie Harrison Mountbatten-Windsor. was born Monday, May 6, 2019, 
+* At this gathering, you will want to drink up to determine the 1st letter of the offerings.
 * "THE CONVENIENT ANSWER IS AT 250°" - Southwest direction, see a [compas](https://ambientweather.net/wp-content/uploads/2019/03/compass-rose.jpg)
 * Know your dates.
 * [The Red Wheelbarrow Poem](https://en.wikipedia.org/wiki/The_Red_Wheelbarrow) - "So much depends
@@ -24,9 +30,11 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 * [Pequod - Moby Dick](https://en.wikipedia.org/wiki/Pequod_\(Moby-Dick\)) - On a Coffe cup, Starbucks? 
 * [PRIME](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) [MERIDIAN](https://en.wikipedia.org/wiki/Prime_meridian)/[MINISTER](https://en.wikipedia.org/wiki/Prime_minister)/[DIRECTIVE](https://en.wikipedia.org/wiki/Prime_Directive)
 	* Star Trek: the Prime Directive (also known as "Starfleet General Order 1", "General Order 1", and the "non-interference directive") is a guiding principle of Starfleet, prohibiting its members from interfering with the internal and natural development of alien civilizations.
-* [Magan Rapinoe](https://en.wikipedia.org/wiki/Megan_Rapinoe), [Abby Wambach](https://en.wikipedia.org/wiki/Abby_Wambach), [Carli Lloyd](https://en.wikipedia.org/wiki/Carli_Lloyd), [Julie Ertz](https://en.wikipedia.org/wiki/Julie_Ertz)
+* [Megan Rapinoe](https://en.wikipedia.org/wiki/Megan_Rapinoe), [Abby Wambach](https://en.wikipedia.org/wiki/Abby_Wambach), [Carli Lloyd](https://en.wikipedia.org/wiki/Carli_Lloyd), [Julie Ertz](https://en.wikipedia.org/wiki/Julie_Ertz) - [US Womens World Cup Champs](https://en.wikipedia.org/wiki/United_States_women%27s_national_soccer_team)
 * Wasp in bottom right corner.
 * If geometry is [foreign (definition)](https://www.merriam-webster.com/dictionary/foreign) to you, choose the shape with the correct [Area Formulas](https://www.shmoop.com/basic-geometry/area-formulas.html) .
+* `Climb the social space ladder.` -  ([Climb the social ladder](https://idioms.thefreedictionary.com/climb+the+social+ladder), [Space Elevator](https://en.wikipedia.org/wiki/Space_elevator)
+* `How many studs are needed to solve a clue?` 
 
 ## Links from HWOW
 * [Apollo mission Landing sites](https://airandspace.si.edu/explore-and-learn/topics/apollo/apollo-program/landing-missions/sites.cfm)
@@ -57,7 +65,7 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 	* `Jeesh. Next time we'll land somewhere more serene.`
 	* [Crater Vitruvius](https://en.wikipedia.org/wiki/Vitruvius_\(crater\)), [Crater Le Monnier](https://en.wikipedia.org/wiki/Le_Monnier_\(crater\)), [Crater Plinius](https://en.wikipedia.org/wiki/Plinius_\(crater\))
 * https://xkcd.com/1356/
-* [200 Years Since His Birth, the Time is Ripe For a Herman Melville Revival](https://thewire.in/books/herman-melville-200-years)
+* [Pequod](https://en.wikipedia.org/wiki/Pequod_(Moby-Dick)) - [200 Years Since His Birth, the Time is Ripe For a Herman Melville Revival](https://thewire.in/books/herman-melville-200-years) - [wiki](https://en.wikipedia.org/wiki/Herman_Melville) Author of [Moby-Dick](https://en.wikipedia.org/wiki/Moby-Dick) , 
 * [foreign definition](https://www.merriam-webster.com/dictionary/foreign)
 * [Area Formulas](https://www.shmoop.com/basic-geometry/area-formulas.html) 
 	* Area of Circle = π(radius)2 = πr2
@@ -72,7 +80,7 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 * [b i t . l y / S F D E W R Y - Newman from Seinfeld](https://en.wikipedia.org/wiki/Newman_\(Seinfeld\))
 
 
-## Deaths in 2019 (and late 2018)
+## Deaths in 2019 [from film](https://en.wikipedia.org/wiki/2019_in_film#Deaths)
 * [Peter Mayhew](https://en.wikipedia.org/wiki/Peter_Mayhew) - Chewbacca Actor
 * [Eddie Money](https://en.wikipedia.org/wiki/Eddie_Money) - Long Island-raised rock star, The husky-voiced, blue collar performer -- who grew up in Plainedge and is a Long Island Music Hall of Famer --was known for such hits as "Two Tickets to Paradise" and "Take Me Home Tonight."  He was 70.
 * [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee) American comic book writer, editor, publisher, and producer
@@ -82,11 +90,26 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 * [Grumpy Cat](https://en.wikipedia.org/wiki/Grumpy_Cat), [Intenet Celebrity](https://twitter.com/RealGrumpyCat)
 * [Alan Bean](https://en.wikipedia.org/wiki/Alan_Bean) - Fourth person to walk on the moon.
 
-## Things to bring
-* Can or bag of Dogfood
-* 10' pole
-* Blacklights
-* [Hexadecimal to Decimal conversion](http://wims.unice.fr/wims/en_tool~number~baseconv.en.html)
-* [Binary to Decimal conversion](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
-* [ASCII table](http://www.asciitable.com/)
-* [Periodic table](https://www.ptable.com/)
+* [Luke Perry](https://en.wikipedia.org/wiki/Luke_Perry) - 5th Element Actor
+* [Rutger Hauer](https://en.wikipedia.org/wiki/Rutger_Hauer) - Blade Runner Actor
+* [Rob Garrison](https://en.wikipedia.org/wiki/Rob_Garrison) - The Karate Kid Actor
+
+## Space Events 
+* **Total lunar eclipse** - 21 January
+* **Geminid meteor shower** - 12-16 December
+* **Supermoons** - 21 January, 19 February and 21 March
+
+## [Movies](https://en.wikipedia.org/wiki/2019_in_film)
+* [Toy Story 4](https://en.wikipedia.org/wiki/Toy_Story_4)
+* [Aladdin](https://en.wikipedia.org/wiki/Aladdin_(2019_film))
+* [Spider-Man: Far From Home](https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home)
+* [The Lion King](https://en.wikipedia.org/wiki/The_Lion_King_(2019_film))
+* [Captain Marvel](https://en.wikipedia.org/wiki/Captain_Marvel_(film))
+* [Avengers: Endgame](https://en.wikipedia.org/wiki/Avengers:_Endgame)
+* Pokemon: Detective Pikachu
+* Dark Phoenix
+* Hellboy
+* Shaft
+* [Joker](https://en.wikipedia.org/wiki/Joker_(2019_film))
+* The Lego Movie 2: The Second Part
+* Frozen 2
