@@ -85,12 +85,11 @@ upon a red wheel barrow glazed with rain water beside the white chickens."
 * [Eddie Money](https://en.wikipedia.org/wiki/Eddie_Money) - Long Island-raised rock star, The husky-voiced, blue collar performer -- who grew up in Plainedge and is a Long Island Music Hall of Famer --was known for such hits as "Two Tickets to Paradise" and "Take Me Home Tonight."  He was 70.
 * [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee) American comic book writer, editor, publisher, and producer
 * [Douglas Rain](https://en.wikipedia.org/wiki/Douglas_Rain) -  Actor, he provided the voice of the HAL 9000 computer for the film [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_\(film\))
-* Toni Morrison
-* Harold Prince
+* [Toni Morrison](https://en.wikipedia.org/wiki/Toni_Morrison)
+* [Harold Prince](https://en.wikipedia.org/wiki/Harold_Prince)
 * [Grumpy Cat](https://en.wikipedia.org/wiki/Grumpy_Cat), [Intenet Celebrity](https://twitter.com/RealGrumpyCat)
 * [Alan Bean](https://en.wikipedia.org/wiki/Alan_Bean) - Fourth person to walk on the moon.
-*[Gloria Vanderbilt] (https://en.wikipedia.org/wiki/Gloria_Vanderbilt) - socialite, Anderson Cooper's mom.
-
+* [Gloria Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) - socialite, Anderson Cooper's mom.
 * [Luke Perry](https://en.wikipedia.org/wiki/Luke_Perry) - 5th Element Actor
 * [Rutger Hauer](https://en.wikipedia.org/wiki/Rutger_Hauer) - Blade Runner Actor
 * [Rob Garrison](https://en.wikipedia.org/wiki/Rob_Garrison) - The Karate Kid Actor
