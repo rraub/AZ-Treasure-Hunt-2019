@@ -8,7 +8,7 @@
 
 
 ## Other things
-* Styx "come sail away" talks about angels in the sky blablabla but they were aliens
+* Styx (https://en.wikipedia.org/wiki/Styx_(band))"come sail away" talks about angels in the sky blablabla but they were aliens
 	* [Styx (not the band)](https://en.wikipedia.org/wiki/Styx) - is a deity and a river that forms the boundary between Earth and the Underworld, often called "Hades", which is also the name of its ruler. 
 * The minimax is about generative adversarial networks
 * AmaIzon is spelled with an [Up Tack](https://en.wikipedia.org/wiki/Up_tack) - Falsum or Absurdum
@@ -18,13 +18,13 @@
 * "THE CONVENIENT ANSWER IS AT 250°" - Southwest direction, see a [compas](https://ambientweather.net/wp-content/uploads/2019/03/compass-rose.jpg)
 * Know your dates.
 * [The Red Wheelbarrow Poem](https://en.wikipedia.org/wiki/The_Red_Wheelbarrow) - "So much depends
-upon a red wheel barrow glazed with rain water beside the white chikens."
+upon a red wheel barrow glazed with rain water beside the white chickens."
 * Dont forget to order a drink (pictured next to Woody from [Toy Story](https://en.wikipedia.org/wiki/Toy_Story_4))
 * [Flags of the world](https://previews.123rf.com/images/panyamail/panyamail1805/panyamail180500343/102155432-all-flags-of-the-world-in-alphabetical-order-rectangle-glossy-style.jpg)
 * [Pequod - Moby Dick](https://en.wikipedia.org/wiki/Pequod_\(Moby-Dick\)) - On a Coffe cup, Starbucks? 
 * [PRIME](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number/) [MERIDIAN](https://en.wikipedia.org/wiki/Prime_meridian)/[MINISTER](https://en.wikipedia.org/wiki/Prime_minister)/[DIRECTIVE](https://en.wikipedia.org/wiki/Prime_Directive)
 	* Star Trek: the Prime Directive (also known as "Starfleet General Order 1", "General Order 1", and the "non-interference directive") is a guiding principle of Starfleet, prohibiting its members from interfering with the internal and natural development of alien civilizations.
-* [Magan Rapinoe](https://en.wikipedia.org/wiki/Megan_Rapinoe), [Abby Wambach](https://en.wikipedia.org/wiki/Abby_Wambach), [Carli Lloyd](https://en.wikipedia.org/wiki/Carli_Lloyd), [Julie Ertz](https://en.wikipedia.org/wiki/Julie_Ertz)
+* [Megan Rapinoe](https://en.wikipedia.org/wiki/Megan_Rapinoe), [Abby Wambach](https://en.wikipedia.org/wiki/Abby_Wambach), [Carli Lloyd](https://en.wikipedia.org/wiki/Carli_Lloyd), [Julie Ertz](https://en.wikipedia.org/wiki/Julie_Ertz) All have scored goals at the US world cup. Forward, Forward, Mid, Defender/Back... Reign, Flash, Sky Blue, Red Stars... CA, NY, NJ, AZ
 * Wasp in bottom right corner.
 * If geometry is [foreign (definition)](https://www.merriam-webster.com/dictionary/foreign) to you, choose the shape with the correct [Area Formulas](https://www.shmoop.com/basic-geometry/area-formulas.html) .
 
@@ -81,6 +81,7 @@ upon a red wheel barrow glazed with rain water beside the white chikens."
 * Harold Prince
 * [Grumpy Cat](https://en.wikipedia.org/wiki/Grumpy_Cat), [Intenet Celebrity](https://twitter.com/RealGrumpyCat)
 * [Alan Bean](https://en.wikipedia.org/wiki/Alan_Bean) - Fourth person to walk on the moon.
+*[Gloria Vanderbilt] (https://en.wikipedia.org/wiki/Gloria_Vanderbilt) - socialite, Anderson Cooper's mom.
 
 ## Things to bring
 * Can or bag of Dogfood
